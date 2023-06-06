@@ -41,14 +41,14 @@
          <number>0</number>
         </property>
         <item>
-         <widget class="QPushButton" name="videoControllerButton">
+         <widget class="QPushButton" name="CameraControllerButton">
           <property name="text">
            <string>PushButton</string>
           </property>
          </widget>
         </item>
         <item>
-         <widget class="QComboBox" name="videoDeviceSelector"/>
+         <widget class="QComboBox" name="CameraDeviceSelector"/>
         </item>
        </layout>
       </item>
